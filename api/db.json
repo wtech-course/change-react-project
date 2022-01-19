@@ -1,0 +1,28 @@
+{
+  "personels": [
+    {
+      "name": "Kemalettin Taslak",
+      "salary": "3001",
+      "department": "Pazarlama 2",
+      "id": "unique-2"
+    },
+    {
+      "name": "Mehmet Biricik",
+      "salary": "6002",
+      "department": "Pazarlama",
+      "id": "2W2dzjZ"
+    },
+    {
+      "name": "Zeynep Değirmencioğlu",
+      "salary": "5005",
+      "department": "İnsan Kaynakları",
+      "id": "0HojoiW"
+    },
+    {
+      "name": "Murat Temel",
+      "salary": "30003",
+      "department": "Pazarlama",
+      "id": "GaG_hdC"
+    }
+  ]
+}
