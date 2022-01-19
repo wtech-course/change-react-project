@@ -2,13 +2,13 @@
   "personels": [
     {
       "name": "Kemalettin Taslak",
-      "salary": "3001",
+      "salary": "3008",
       "department": "Pazarlama 2",
       "id": "unique-2"
     },
     {
       "name": "Mehmet Biricik",
-      "salary": "6002",
+      "salary": "6009",
       "department": "Pazarlama",
       "id": "2W2dzjZ"
     },
